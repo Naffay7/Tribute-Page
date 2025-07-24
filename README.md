@@ -1,7 +1,5 @@
 # Abdul Sattar Edhi Tribute Page
 
-![Edhi Foundation Preview](https://static01.nyt.com/images/2016/07/09/world/sub-09edhi-obit/sub-09edhi-obit-superJumbo.jpg)
-
 A responsive tribute page honoring Abdul Sattar Edhi, Pakistan's legendary humanitarian known as "The Richest Poor Man". This project showcases his life, legacy, and awards through clean HTML/CSS design.
 
 ## Features
